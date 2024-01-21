@@ -1,6 +1,6 @@
 # Example Site E-Commerce Rails and solidus
 
-This is an example project for ruby on rails ecommerce project from solids framework from scratch
+This is an example project for ruby on rails ecommerce project using solids framework from scratch
 
 Things you may want to cover:
 
